@@ -2168,9 +2168,9 @@ Button Size,Buttongröße,module,Amazon_Core
 Button Text,Text der Schaltfläche,module,Magento_InstantPurchase
 button_label,button_label,,
 Buttons to show,Schaltflächen zum Anzeigen,module,Magento_Catalog
-Buy %1 for %2 each,%1 für jeweils %2 kaufen,,
-Buy %1 for %2 each and,Kaufen Sie %1 für jeweils %2 und,module,Magento_ConfigurableProduct
-"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","%1 für jeweils %2 kaufen und <strong class=""benefit""><span class=""percent tier-%3"">&nbsp;%4</span>% sparen</strong>",,
+Buy %1 for %2 each,%1 Stück für je %2 kaufen,,
+Buy %1 for %2 each and,Kaufe %1 Stück für je %2,module,Magento_ConfigurableProduct
+"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",%1 Stück für je %2 kaufen,,
 Buy %1 for price %2,Kaufe %1 zum Preis von %2,,
 Buy %1 for:,%1 kaufen für:,,
 Buy %1 for:,%1 kaufen für:,module,Magento_Catalog
@@ -5224,12 +5224,12 @@ If you believe it is the right one you can ignore this notice.,"Bist du der Mein
 "If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Wenn du nicht mehrere Benutzer auf deinem Konto eingerichtet hast, bitte deinen Lieferanten/Händler erneut eingeben. Hier anmelden.",,
 "If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","Wenn du das Händlerkonto, das für die Bearbeitung einer Transaktion verwendet werden soll, nicht angibst, verarbeitet Braintree es mit deinem Standardhändlerkonto.",module,Magento_Braintree
 "If you have an account, sign in with your email address.","Wenn du ein Konto hast, melde dich mit deiner E-Mail-Adresse an.",,
-"If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>.","Bei zu deiner Rücksendung haben, kannst du uns an <a href=""mailto:%support_email"">%support_email</a>. eine E-Mail schreiben.",,
-"If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","Bei zu deiner Bestellung haben, kannst du uns an <a href=""mailto:%support_email"">%support_email</a>. eine E-Mail schreiben.",,
+"If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>.","Bei Fragen zu deiner Rücksendung, kannst du uns eine E-Mail an <a href=""mailto:%support_email"">%support_email</a>. schreiben.",,
+"If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","Bei Fragen zu deiner Bestellung, kannst du uns eine E-Mail an <a href=""mailto:%support_email"">%support_email</a>. schreiben.",,
 "If you have not authorized this action, please contact us immediately at %store_email","Solltest du diese Änderung nicht autorisiert haben, kontaktiere uns bitte umgehend unter %store_email",module,Magento_User
 "If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Solltest du diese Änderung nicht autorisiert haben, kontaktiere uns bitte umgehend unter <a href=""mailto:%store_email"">%store_email</a>",,
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Bei zu deiner Bestellung haben, kannst du uns an <a href=""mailto:%store_email"">%store_email </a> eine E-Mail schreiben.",,
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Bei zu deiner Bestellung haben, kannst du uns an <a href=""mailto:%store_email"">%store_email </a> eine E-Mail schreiben.",,
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Bei Fragen zu deiner Bestellung, kannst du uns eine E-Mal an <a href=""mailto:%store_email"">%store_email </a>  schreiben.",,
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Bei Fragen zu deiner Bestellung, kannst du uns eine E-Mail an <a href=""mailto:%store_email"">%store_email </a> schreiben.",,
 "If you requested this change, reset your password here:","Wenn du diese Änderung beauftragt hast, setze dein Passwort hier neu:",,
 "If you requested this change, set a new password here:","Wenn du diese Änderung beauftragt hast, lege hier ein neues Passwort fest:",,
 If you select and save the rule you will be able to generate multiple coupon codes.,"Wenn du die Regel auswählst und speicherst, kannst du mehrere Gutschein-Codes generieren.",,
@@ -9535,14 +9535,14 @@ Shipping (Excl. Tax),Versandkosten (exkl. MwSt.),,
 Shipping (Excl. Tax),Versand (Exkl. Steuer),module,Magento_Tax
 Shipping (Incl. Tax),Versandkosten (inkl. MwSt.),,
 Shipping (Incl. Tax),Versand (Inkl. Steuer),module,Magento_Tax
-Shipping & Handling,Versand & Bearbeitung,,
-Shipping & Handling (%1),Versand & Bearbeitung (%1),,
-Shipping & Handling (%1),Versand & Bearbeitung (%1),module,Magento_Quote
-Shipping & Handling (Excl.Tax),Liefer- und Versandkosten (exkl. Steuern),,
-Shipping & Handling (Excl.Tax),Versand und Bearbeitung (Exkl. Steuern),module,Magento_Tax
-Shipping & Handling (Incl.Tax),Liefer- und Versandkosten (inkl. Steuern),,
-Shipping & Handling (Incl.Tax),Versand und Bearbeitung (Inkl. Steuern),module,Magento_Tax
-Shipping &amp; Handling,Versand und Bearbeitung,,
+Shipping & Handling,Versandkosten,,
+Shipping & Handling (%1),Versandkosten (%1),,
+Shipping & Handling (%1),Versandkosten (%1),module,Magento_Quote
+Shipping & Handling (Excl.Tax),Versandkosten (Exkl. Steuern),,
+Shipping & Handling (Excl.Tax),Versandkosten (Exkl. Steuern),module,Magento_Tax
+Shipping & Handling (Incl.Tax),Versandkkosten (inkl. Steuern),,
+Shipping & Handling (Incl.Tax),Versandkosten (Inkl. Steuern),module,Magento_Tax
+Shipping &amp; Handling,Versandkosten,,
 Shipping &amp; Handling Information,Versand- und Bearbeitungs-Hinweise,,
 Shipping Address,Versandadresse,,
 Shipping address is not defined for instance purchase.,Die Lieferadresse ist für Sofortkauf nicht definiert.,module,Magento_InstantPurchase
@@ -12631,12 +12631,12 @@ We did not send %1 invitation(s) addressed to current customers.,Wir haben %1 Ei
 We did not upload your image.,Wir konnten dein Bild nicht hochladen.,,
 We discarded %1 invitation(s) addressed to current customers.,Wir haben %1 Einladung(en) an derzeitige Kunden verworfen.,,
 We discarded %1 of %2 invitations.,Wir haben %1 von %2 Einladungen verworfen.,,
-"We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","Wir haben %1 nicht in der ageforderten Menge, aber wir werden die restlichen %2 nachbestellen.",,
-"We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Wir haben nicht so viele %1, wie angefordert, aber wir werden die restlichen %2 nachbestellen.",,
-"We don't have as many ""%1"" as you requested.","Wir haben nicht so viele %1, wie angefordert.",,
+"We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","Wir haben %1 nicht in der bestellten Menge, aber wir werden die restlichen %2 nachbestellen und dich via E-Mail über die Lieferzeit informieren.",,
+"We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Wir haben nicht so viele %1, wie bestellt, aber wir werden die restlichen %2 nachbestellen und dich via E-Mail über die Lieferzeit informieren.",,
+"We don't have as many ""%1"" as you requested.","Wir haben nicht so viele %1, wie bestellt..",,
 We don't have as many of some products as you want.,"Von einigen Produkte haben wir nicht so viele, wie du willst.",,
 We don't have as many of these as you want.,Die gewünschte Anzahl ist nicht vorhanden.,,
-"We don't have as many quantity as you requested, but we'll back order the remaining %1.","Die gewünschte Anzahl ist nicht vorhanden, aber wir werden die restlichen %1 nachbestellen.",module,Magento_InventorySales
+"We don't have as many quantity as you requested, but we'll back order the remaining %1.","Die gewünschte Anzahl ist nicht vorhanden, aber wir werden die restlichen %1 nachbestellen und dich über die Lieferzeit informieren.",module,Magento_InventorySales
 We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.,"Wir haben nicht genügend Informationen, um Versandetiketten zu erstellen. Stelle bitte sicher, dass deine Informationen und Einstellungen gespeichert wurden.",,
 We don't have enough information to save the parent transaction ID.,"Wir haben nicht genügend Informationen, um die übergeordnete Transaktions-ID zu speichern.",,
 We don't have some of the products you want.,"Wir haben einige der Produkte nicht, die du willst.",,
