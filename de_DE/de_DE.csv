@@ -5229,7 +5229,7 @@ If you believe it is the right one you can ignore this notice.,"Bist du der Mein
 "If you have not authorized this action, please contact us immediately at %store_email","Solltest du diese Änderung nicht autorisiert haben, kontaktiere uns bitte umgehend unter %store_email",module,Magento_User
 "If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Solltest du diese Änderung nicht autorisiert haben, kontaktiere uns bitte umgehend unter <a href=""mailto:%store_email"">%store_email</a>",,
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Bei Fragen zu deiner Bestellung, kannst du uns eine E-Mal an <a href=""mailto:%store_email"">%store_email </a>  schreiben.",,
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Bei Fragen deiner Bestellung, kannst du uns eine E-Mail an <a href=""mailto:%store_email"">%store_email </a> schreiben.",,
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Bei Fragen zu deiner Bestellung, kannst du uns eine E-Mail an <a href=""mailto:%store_email"">%store_email </a> schreiben.",,
 "If you requested this change, reset your password here:","Wenn du diese Änderung beauftragt hast, setze dein Passwort hier neu:",,
 "If you requested this change, set a new password here:","Wenn du diese Änderung beauftragt hast, lege hier ein neues Passwort fest:",,
 If you select and save the rule you will be able to generate multiple coupon codes.,"Wenn du die Regel auswählst und speicherst, kannst du mehrere Gutschein-Codes generieren.",,
